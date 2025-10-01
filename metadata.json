@@ -1,0 +1,5 @@
+{
+  "name": "FocusUp – Focus & Attention Manager",
+  "description": "An application to help users manage their focus and attention during study or work sessions. It features a customizable timer, motivational messages, progress tracking, and a competitive leaderboard.",
+  "requestFramePermissions": []
+}
